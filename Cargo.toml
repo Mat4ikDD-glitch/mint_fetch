@@ -1,0 +1,16 @@
+[package]
+name = "mint_fetch"
+version = "0.3.0"
+edition = "2021"
+description = "Fast neofetch alternative in Rust, supports all distros"
+license = "MIT"
+authors = ["Mat4ikDD-glitch"]
+repository = "https://github.com/Mat4ikDD-glitch/mint_fetch"
+
+[[bin]]
+name = "mint_fetch"
+path = "src/main.rs"
+
+[[bin]]
+name = "gen_ascii"
+path = "src/bin/gen_ascii.rs"
