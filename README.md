@@ -1,5 +1,5 @@
 # mint_fetch
-
+![screenshot](screenshot.png)
 Fast `neofetch` alternative in Rust. Supports all 200+ distros from upstream neofetch, reads system info directly from `/proc`, `/sys`, `/etc` — no external processes.
 
 ## Speed
