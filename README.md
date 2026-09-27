@@ -8,11 +8,12 @@ Measured on Linux Mint 22.3, Intel i5-1235U:
 
 ```
 $ time fetch
-real    0m0.008s
+real    0m0.016s
 
 $ time neofetch
-real    0m0.487s
+real    0m0.673s
 ```
+~40x faster than neofetch.
 
 ## Install
 
